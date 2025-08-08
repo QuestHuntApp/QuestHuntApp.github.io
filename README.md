@@ -1,2 +1,2 @@
-# QuestHuntApp.github.io
+# QuestHunt Website
 Website Repository
