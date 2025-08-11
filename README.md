@@ -1,6 +1,4 @@
-# QuestHunt - Gamified To-Do List
-
-### ***🚧  This Project is WIP!***
+# QuestHunt - Life as a Game
 
 Transform your everyday tasks into engaging quests with this modern, gamified todo list, right inside your browser.
 
