@@ -5,7 +5,7 @@ Transform your everyday tasks into engaging quests with this modern, gamified to
 ## ❓ Why this exists
 This exists to help those with ADHD complete tasks, whether it comes to school, work, chores, or whatever you can  think of. While there are apps like these out there, they are usually limited to phones, and so I created one on the web for you to access on your school, work, or home laptop.
 
-## 😼 Features [`Updates`](https://github.com/QuestHuntApp/QuestHuntApp.github.io/blob/main/UPDATES.md)
+## 😼 Features
 
 - 🎮 **Quest System**: Convert tasks into different types of quests (once, daily, weekly, count-based)
 - 🪙 **Rewards System**: Earn coins for completing quests and spend them on custom rewards
