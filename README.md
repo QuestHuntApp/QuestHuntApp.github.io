@@ -1,9 +1,9 @@
-# QuestHunt - Life as a Game
+# QuestHunt - Gamified To-Do list
 
-Transform your everyday tasks into engaging quests with this modern, gamified todo list, right inside your browser.
+Transform your everyday tasks into engaging quests with this modern, gamified to-do list, right inside your browser.
 
 ## ❓ Why this exists
-This exists to help those with ADHD complete tasks, whether it comes to school, work, chores, or whatever you can  think of. While there are apps like these out there, they are usually limited to phones, and so I created one on the web for you to access on your school, work, or home laptop.
+This exists to help people with ADHD complete tasks, whether it comes to school, work, chores, or whatever you can  think of. While there are apps like these available, they are typically limited to phones. Therefore, I created one for the web, allowing you to access it on your school, work, or home laptop.
 
 ## 😼 Features
 
@@ -31,11 +31,11 @@ Visit the live application at https://www.QuestHuntApp.github.io
 - **UI**: Tailwind CSS + Shadcn/ui components
 - **Build Tool**: Vite
 
-- **Storage**: Data stored inside browser localStorage. Clearing cookies will clear data! Upload and download data is supported
+- **Storage**: Data stored inside browser localStorage. Clearing cookies will clear data! Uploading and downloading data is supported
 
 ## 🧑‍💻 Contributing
 
-Found a **bug**? Or do you think this app needs more **features**? Create a issue and write away! Make sure to include steps on how to reproduce bugs.
+Found a **bug**? Or do you think this app needs more **features**? Create an issue and write away! Make sure to include steps on how to reproduce bugs.
 
 ## 👿 License
 
