@@ -1,6 +1,7 @@
 # QuestHunt - Gamified To-Do list
 
-Transform your everyday tasks into engaging quests with this modern, gamified to-do list, right inside your browser.
+Transform your everyday tasks into engaging quests with this modern, gamified to-do list, right inside your browser.<br />
+All features are free, and the site is completely ad-free. ❤️
 
 ## ❓ Why this exists
 This exists to help people with ADHD complete tasks, whether it comes to school, work, chores, or whatever you can  think of. While there are apps like these available, they are typically limited to phones. Therefore, I created one for the web, allowing you to access it on your school, work, or home laptop.
