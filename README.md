@@ -41,4 +41,4 @@ Found a **bug**? Or do you think this app needs more **features**? Create an iss
 
 ## 👿 License
 
-This project is copyrighted. View the [license](https://github.com/QuestHuntApp/QuestHuntApp.github.io?tab=License-1-ov-file).
+Quest Hunt App is copyrighted. View the [license](https://github.com/QuestHuntApp/QuestHuntApp.github.io?tab=License-1-ov-file).
