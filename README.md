@@ -1,6 +1,8 @@
 # QuestHunt - Gamified To-Do list
 
-Transform your everyday tasks into engaging quests with this modern, gamified to-do list, right inside your browser.<br />
+_**🚧 This website is WIP! 🚧**_
+
+Transform your everyday tasks into engaging quests with this gamified to-do list, right inside your browser.<br />
 All features are free, and the site is completely ad-free. ❤️
 
 ## ❓ Why this exists
